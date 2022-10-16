@@ -1,0 +1,12 @@
+name: rd-env
+
+dependencies:
+  - selenium
+  - os
+  - cv2
+  - csv
+  - tensorflow
+  - numpy
+  - matplotlib
+  - time
+  - urllib
